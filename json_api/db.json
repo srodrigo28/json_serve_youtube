@@ -1,0 +1,39 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "desc": "camisa A",
+      "qd": 5,
+      "valor": 50
+    },
+    {
+      "id": 2,
+      "desc": "camisa B",
+      "qd": 10,
+      "valor": 30
+    },
+    {
+      "id": 3,
+      "desc": "camisa C",
+      "qd": 12,
+      "valor": 25
+    }
+  ],
+  "cliente": [
+    {
+      "id": 1,
+      "nome": "joão nascimento",
+      "tel": "54 9 8111-7012"
+    },
+    {
+      "nome": "maria",
+      "tel": "55 9 9211-2233",
+      "id": 2
+    },
+    {
+      "nome": "juliana azevedo",
+      "tel": "11 9 7230-4040",
+      "id": 3
+    }
+  ]
+}
